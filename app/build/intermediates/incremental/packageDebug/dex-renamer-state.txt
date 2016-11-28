@@ -1,0 +1,7 @@
+#Mon Nov 21 13:51:15 CET 2016
+base.0=C\:\\Users\\NewPep\\Desktop\\DynamicDroides\\Virgen del Carmen Comedor\\Virgen del Carmen Comedor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_31a8b892dd8d7e0302e750f66edd7e6abd2a6340
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\NewPep\\Desktop\\DynamicDroides\\Virgen del Carmen Comedor\\Virgen del Carmen Comedor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_33b9d63559c1d22fddf2de9776cef63b155eeed6\\classes.dex
+base.1=C\:\\Users\\NewPep\\Desktop\\DynamicDroides\\Virgen del Carmen Comedor\\Virgen del Carmen Comedor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_33b9d63559c1d22fddf2de9776cef63b155eeed6
+file.0=C\:\\Users\\NewPep\\Desktop\\DynamicDroides\\Virgen del Carmen Comedor\\Virgen del Carmen Comedor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_31a8b892dd8d7e0302e750f66edd7e6abd2a6340\\classes.dex

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="1006662069827160"
+    token="-8977913346644790040"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2215" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1888" />
+    <task
+        name="verifier"
+        duration="505" />
+
+    <artifact
+        location="C:\Users\NewPep\Desktop\DynamicDroides\Virgen del Carmen Comedor\Virgen del Carmen Comedor\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1006662069827160"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\NewPep\Desktop\DynamicDroides\Virgen del Carmen Comedor\Virgen del Carmen Comedor\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

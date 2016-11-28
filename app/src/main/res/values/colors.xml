@@ -1,0 +1,14 @@
+<resources>
+
+    <!--  
+    <color name="vdc_activity_background">#e8c16e</color>
+    <color name="vdc_form_background">#610e4d</color>
+    -->
+    <color name="vdc_activity_background">#c6e0ee</color>
+    <color name="vdc_form_background">#007fc4</color>
+    <color name="vdc_form_background_edited">#00afd4</color>
+    <color name="vdc_form_background_title">#0024de</color>         
+    <color name="vdc_text">#ffffff</color>
+    <color name="vdc_black_text">#555555</color>
+
+</resources>

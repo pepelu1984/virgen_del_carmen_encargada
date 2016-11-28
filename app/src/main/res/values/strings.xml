@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Virgen del Carmen Encargada</string>
+
+    <string name="action_settings">Preferencias</string>
+    <string name="action_logout">Cerrar sesión</string>
+    <string name="action_students">Estudiantes</string>
+    <string name="action_professors">Profesores</string>
+
+    <string name="title_students">ESTUDIANTES</string>
+    <string name="title_professors">PROFESORES</string>    
+    
+    <string-array name="options2">
+        <item>Asistirá</item>
+        <item>No asistirá</item>
+    </string-array>
+    
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_user">Usuario</string>
+    
+    <string name="button_login">Entrar</string>
+    <string name="button_ok">Aceptar</string>
+    <string name="button_go_daily">Ver formulario diario</string>
+    <string name="button_go_weekly">Ver formulario semanal</string>
+    <string name="button_send">Enviar</string>    
+    
+    <string name="error_connection">No se ha podido conectar al servidor. Revise la conexión.</string>
+    <string name="error_ws_response">Error de transmisión de datos. Inténtelo de nuevo.</string>
+    <string name="error_login">Usuario o contraseña incorrectos. Inténtelo de nuevo.</string>
+
+    <string name="dialog_sent_ok">La información sobre la asistencia se ha enviado con éxito.</string>
+    
+    <string name="text_select_course">Elija el curso</string>
+    <string name="text_select_student">Elija el estudiante</string>
+    <string name="text_select_form">Elija el formulario</string>
+    <string name="text_wait">Espere...</string>
+    <string name="text_no_students">No se muestran estudiantes</string>
+    <string name="text_no_professors">No se muestran profesores</string>
+    
+    <string name="button_student_view_form">Editar</string>
+    <string name="button_student_default_form">Aceptar</string>
+    <string name="button_accept_all">Aceptar todos</string>
+    <string name="form_summary_hint">Observaciones</string>
+    
+    <string name="summary_text">Seleccionados ${selected}, en total ${total}</string>
+
+</resources>
